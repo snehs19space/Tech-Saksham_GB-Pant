@@ -2,6 +2,7 @@
 | **Day**     | **Topics**                       | **Activities**                   |
 |-------------|----------------------------------|----------------------------------|
 | **Day - 1** | Overview of Tech Saksham Program | - Understanding AI and its importance |
-| **Day - 2** | Introduction to Git and GitHub   | - Downloading Git - Using Git commands |
+| **Day - 2** | Introduction to Git and GitHub   | - Downloading Git 
+- Using Git commands |
 
 ---
