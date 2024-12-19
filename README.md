@@ -1,4 +1,5 @@
-# Tech-Saksham_GB-Pant
+# Tech Saksham_Day-wise Schedule
+
 | **Day**     | **Date**      | **Topics**                       | **Activities**                   |
 |-------------|---------------|----------------------------------|----------------------------------|
 | **Day - 1** | 16-12-2024    | Overview of Tech Saksham Program | - Understanding AI and its importance |
