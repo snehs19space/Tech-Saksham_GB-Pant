@@ -1,0 +1,32 @@
+Course Outline
+
+Unit - 1 : AI Concepts, Python Basics and OpenCV Integration
+Day - 1  : Understanding AI Concepts and Responsible AI Practices 
+Day - 1  : Responsible AI Implementation
+Day - 2  : Leveraging GitHub for AI Development 
+Day - 3  : Fundamentals of Python Programming
+Day - 4  : Object - Oriented Programming
+Day - 5  : Advanced Python Concepts 
+Day - 6  : Image Processing with OpenCV, Python
+Capstone Project Mentoring Session - I, II
+
+Unit - 2 : Applied Data Analytics with Python Programming and Power BI 
+Day - 7  : 
+Day - 8  : 
+Day - 9  : 
+Day - 10 : 
+Capstone Project Mentoring Session - III, IV
+
+Unit - 3 : Implementation of ML and DL Algorithms
+Day - 11 : Introduction to Machine Learning  
+Day - 12 : Unsupervised ML Algorithm
+Day - 13 : Neural Networks and Deep Learning
+Day - 14 : Hands-on Image Classification Models
+Capstone Project Mentoring Session - V
+
+Mid - Term Assessment and Project Presentation
+
+Unit - 4 : Exploring NLP and Generative AI with Hugging Face Tools
+Day - 15 : NLP Introduction
+Day - 16 : Hugging Face
+
