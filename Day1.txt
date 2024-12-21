@@ -11,10 +11,10 @@ Day - 6  : Image Processing with OpenCV, Python
 Capstone Project Mentoring Session - I, II
 
 Unit - 2 : Applied Data Analytics with Python Programming and Power BI 
-Day - 7  : 
-Day - 8  : 
-Day - 9  : 
-Day - 10 : 
+Day - 7  : Data Preprocesssing and Analysis with Python
+Day - 8  : Data Analytics with PowerBI
+Day - 9  : Data Analytics with PowerBI
+Day - 10 : Hands-on Analyzing Air Quality using PowerBI
 Capstone Project Mentoring Session - III, IV
 
 Unit - 3 : Implementation of ML and DL Algorithms
@@ -29,4 +29,13 @@ Mid - Term Assessment and Project Presentation
 Unit - 4 : Exploring NLP and Generative AI with Hugging Face Tools
 Day - 15 : NLP Introduction
 Day - 16 : Hugging Face
+Day - 17 : Understanding of Generative AI
+Day - 18 : Using GPT Models for NLP Tasks
 
+Unit - 5 : Deployment of AI Applications
+Day - 18 : Building User Interface using HTML, CSS or Streamlit for ML/DL Models
+Capstone Project Mentoring Session - VI, VII, VIII, IX
+
+Mentoring Framework : Integrating Design Thinking into AI Project Development
+
+Final - Term Assessment and Project Presentation and Submission
