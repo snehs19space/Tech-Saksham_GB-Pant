@@ -1,0 +1,13 @@
+Git Commands
+
+Git Configuration Commands:
+  git config --global user.name "Your Name" - Sets the global Git username for all repositories.
+  git config --global user.email "youremail@domainname.com" - Sets the global Git email for all repositories.
+
+Basic Git Commands:
+  git init - Initializes a new Git repository in the current directory.
+  git clone <repository-url> - Clones a remote repository to your local machine.
+  git status - Shows the current status of your repository, including staged, unstaged, and untracked files.
+  git add <file> - Stages changes to a specific file for the next commit.
+  git commit -m "message" - Commits the staged changes to the repository with a descriptive message.
+  git push <remote> <branch> - Pushes commits to the specified remote and branch (e.g.: git push origin main).
