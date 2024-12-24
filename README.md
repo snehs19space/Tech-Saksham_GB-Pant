@@ -8,5 +8,5 @@
 | **Day - 4** | 19-12-2024    | Strings and Functions in Python   | - Problems related to strings and functions |
 | **Day - 5** | 20-12-2024    | Lists, Tuples and Dictionaries in Python <br>   | - Manipulation of Lists, Tuples and Dictionaries|
 | **Day - 6** | 23-12-2024    | OOP concepts in Python | -  Problems related to classes and objects |
-| **Day - 7** | 24-12-2024    | Exception Handling and File Handling in Python | -  Working on problems related to Exception and File Handling |
+| **Day - 7** | 24-12-2024    | Exception Handling and File Handling in Python | -  Problems related to Exception and File Handling |
 ---
